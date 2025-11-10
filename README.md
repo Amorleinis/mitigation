@@ -1,6 +1,26 @@
 # Threat Mitigation Engine
 
-**Standalone Vulnerability Remediation and System Hardening**
+# Threat Mitigation Engine
+
+**Standalone Patch Management, Configuration Hardening, and Vulnerability Remediation Engine**
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![GitHub](https://img.shields.io/github/stars/Amorleinis/threat-mitigation-engine?style=social)](https://github.com/Amorleinis/threat-mitigation-engine)
+
+**By CyberGuard Industries - Lance Brady & AI Collaboration**
+
+## Quick Access
+
+<p align="center">
+  <img src="repository_qr.png" alt="Scan to visit repository" width="200"/>
+  <br>
+  <em>Scan to visit this repository on GitHub</em>
+</p>
+
+## Overview
+
+The Threat Mitigation Engine provides proactive security hardening capabilities including:
 
 ## Overview
 
